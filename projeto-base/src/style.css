@@ -13,3 +13,10 @@
 .cor-especial {
   color: darkred;
 }
+.botao-cor-especial {
+  background-color: darkred;
+  color: white; /* <<cor do texto do botão  */
+}
+.borda-cor-especial {
+  border-color: darkred;
+}
